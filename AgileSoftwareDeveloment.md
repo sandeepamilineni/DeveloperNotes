@@ -55,10 +55,10 @@ Work items are visualized are Kanban Board to give a view of progress and proces
 
 ### Kanban principles
 
-**JIT** - Just in Time
+**JIT** - Just in Time<br>
 We focus on just what is needed and when and amount needed. It eliminates waste, distractions and redundant work. The work is not pushed it pulled from backlog after the work item is Done.
-**WIP** - Work in progress
+**WIP** - Work in progress<br>
 Must be limited and match development capacity.
 Kanban Board - Is used to visualization of progress and process.
-**Comparison**
+**Comparison**<br>
 Srum is fixed length or timeboxed , kanban is continuous in nature whether its implementation or delivery timeline.
