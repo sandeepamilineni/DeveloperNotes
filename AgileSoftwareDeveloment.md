@@ -10,8 +10,9 @@ Customer collaboration over contract negotiation.
 Responding to change over following a plan.
 
 ### Principles of Agile software development
- - List item
- - Customer satisfaction Welcome changing requirements 
+
+ - Customer satisfaction 
+ - Welcome changing requirements 
  - Working software is delivered frequently and is the measure of progress. 
  - Close and daily cooperation between business and developer team. 
  - Projects are built around motivated individuals. Effective communication
@@ -36,6 +37,7 @@ A framework used to address complex adaptive problems and deliver products of hi
 	Ensures best practices are applied and removes obstacles for quality product delivery
 
 ### The Sprint
+![Scrum Development environment](/images/scrum.jpg?raw=true "Scrum")
 
 **Time-boxed** implementation spanning typically 2 to 4 weeks and no changes are made to sprint scope
 **Artifacts** - Product catalog, Sprint backlog, Increment
