@@ -37,7 +37,7 @@ A framework used to address complex adaptive problems and deliver products of hi
 	Ensures best practices are applied and removes obstacles for quality product delivery
 
 ### The Sprint
-![Scrum Development environment](images/scrum.jpg?raw=true "Scrum")
+![Scrum Development environment](https://github.com/sandeepamilineni/DeveloperNotes/blob/master/images/scrum.PNG "Scrum")
 
 **Time-boxed** implementation spanning typically 2 to 4 weeks and no changes are made to sprint scope
 **Artifacts** - Product catalog, Sprint backlog, Increment
