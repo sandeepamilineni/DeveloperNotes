@@ -4,10 +4,10 @@ Agile software development advocates planning, evolutionary development, early d
 	It is based on principles in which requirements and solutions evolve through the collaborative effort of self organizing and cross functional teams
 
 ### Agile manifesto
-Individuals and interactions over process and tools.
-Working software over detailed documentation.
-Customer collaboration over contract negotiation.
-Responding to change over following a plan.
+- Individuals and interactions over process and tools.
+- Working software over detailed documentation.
+- Customer collaboration over contract negotiation.
+- Responding to change over following a plan.
 
 ### Principles of Agile software development
 
